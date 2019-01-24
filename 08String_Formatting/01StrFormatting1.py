@@ -1,0 +1,1 @@
+print('Sita has {0} red balls and {1} yellow balls'.format(12, 30))
