@@ -1,0 +1,1 @@
+print('Alok has {1:d} red balls and {0:d} yellow balls'.format(12, 35))
