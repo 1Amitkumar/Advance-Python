@@ -1,7 +1,7 @@
 value = ["22", "33", "40", "51", "16", "17", "18", "19", "10", "A", "M", "I", "T"]
 
 
-for val in value:               # print all value which divisible by 2:
+for val in value:               # print all values divisible by 2:
     try:
         num = int(val)
         if num % 2 == 0:
